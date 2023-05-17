@@ -1,8 +1,3 @@
-"""
-Created on Dec 13, 2022\n
-@author: Saad and Sameed
-"""
-
 import random
 import sys
 from time import sleep
