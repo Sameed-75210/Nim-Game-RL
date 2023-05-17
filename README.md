@@ -9,8 +9,8 @@ The Nim Game is a classic mathematical game where two players take turns removin
 In this project, we utilized RL algorithms to teach an agent to play the Nim Game effectively. By exploring RL policies and understanding their workings, we gained valuable insights into the capabilities of reinforcement learning in learning complex tasks.
 
 # Team Members
-Ali Raza Github profile link: https://github.com/aliraza998
-Syed Saadullah Hussaini Github profile link: https://github.com/saadProgram
+1-Ali Raza Github profile link: https://github.com/aliraza998
+2-Syed Saadullah Hussaini Github profile link: https://github.com/saadProgram
 
 ## Usage
 
