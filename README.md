@@ -10,8 +10,8 @@ The game consists of four decks with several cards. The goal is to remove cards 
 
 During the game, you will be prompted to choose the deck and the number of cards to remove. The AI agent will play against you.
 
-## Classes
-# Nim
+# Classes
+## Nim
 This class represents the Nim game. It has the following methods:
 
 __init__(self, initial: list = [1, 3, 5, 7]): Initializes the game with the specified initial state.
@@ -21,7 +21,7 @@ switch_player(self) -> None: Switches the turn to the other player.
 move(self, action: tuple) -> None: Makes a move in the game.
 
 
-# NimAI
+## NimAI
 This class represents an AI agent for playing the Nim game. It uses reinforcement learning to train and improve its performance. It has the following methods:
 
 __init__(self, alpha: float = 0.5, epsilon: float = 0.1): Initializes the AI agent with the specified learning rate and exploration probability.
@@ -30,7 +30,7 @@ get_q_value(self, state: list, action: tuple) -> float: Returns the Q value for 
 best_future_reward(self, state: list) -> float: Returns the best future reward from a given state.
 choose_action(self, state: list, epsilon: bool = True) -> tuple[int, int]: Chooses an action based on exploration or exploitation.
 
-# GamePlay
+## GamePlay
 This class provides a gameplay interface for playing the Nim game. It has the following methods:
 
 progress_bar(cls, progress: int, total: int) -> None: Displays a progress bar.
