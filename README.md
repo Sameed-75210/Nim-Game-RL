@@ -13,13 +13,6 @@ In this project, we utilized RL algorithms to teach an agent to play the Nim Gam
 
 2-Syed Saadullah Hussaini Github profile link: https://github.com/saadProgram
 
-## Usage
-
-To play the game, run the `main()` function in the `game_of_cards` module.
-
-The game consists of four decks with several cards. The goal is to remove cards from the decks in any order, and the player who makes the last move loses the game.
-
-During the game, you will be prompted to choose the deck and the number of cards to remove. The AI agent will play against you.
 
 # Classes
 ## Nim
