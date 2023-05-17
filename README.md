@@ -10,6 +10,7 @@ In this project, we utilized RL algorithms to teach an agent to play the Nim Gam
 
 # Team Members
 1-Ali Raza Github profile link: https://github.com/aliraza998
+
 2-Syed Saadullah Hussaini Github profile link: https://github.com/saadProgram
 
 ## Usage
